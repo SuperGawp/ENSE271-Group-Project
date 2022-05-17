@@ -2,7 +2,7 @@
 
 <h3>Purpose</h3>
 
-The folder contains all information related to gathering insights and outlining the project:
+This folder contains all information related to gathering insights and outlining the project:
 
 <ul>
   <li> A document outlining </li>
