@@ -6,4 +6,5 @@ This folder contains all information relating to low-fidelilty prototyping for t
 
 <ul>
   <li>One unique lofi design created by each of our team members.</li>
+   <li>A document relating the prototypes to people-centred design concepts.</li>
 </ul>
